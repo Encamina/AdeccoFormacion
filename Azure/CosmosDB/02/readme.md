@@ -1,0 +1,1 @@
+http://www.kashyapas.com/2018/03/14/azure-cosmos-db-lap-around-net-core-document-client/
